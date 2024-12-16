@@ -12,7 +12,7 @@ body{
 }
 .main{ 
     width: 350px;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .image-container{
     border-radius: 10px;
